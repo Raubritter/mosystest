@@ -1,0 +1,16 @@
+editor:
+-openfile
+-closefile
+-createfile
+-deletefile
+-createfolder
+-deletefolder
+-copy
+-paste
+-rename
+-download
+-upload
+-search
+
+general
+-accessschutz für alle seiten
